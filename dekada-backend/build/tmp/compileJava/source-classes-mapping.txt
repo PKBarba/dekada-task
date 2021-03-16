@@ -1,0 +1,14 @@
+com/task/dekadabackend/model/Email.java
+ com.task.dekadabackend.model.Email
+com/task/dekadabackend/config/ThymeleafTemplateConfig.java
+ com.task.dekadabackend.config.ThymeleafTemplateConfig
+com/task/dekadabackend/controller/CrudEmailController.java
+ com.task.dekadabackend.controller.CrudEmailController
+com/task/dekadabackend/repo/EmailRepository.java
+ com.task.dekadabackend.repo.EmailRepository
+com/task/dekadabackend/DekadaBackendApplication.java
+ com.task.dekadabackend.DekadaBackendApplication
+com/task/dekadabackend/controller/SendEmailController.java
+ com.task.dekadabackend.controller.SendEmailController
+com/task/dekadabackend/service/EmailSenderService.java
+ com.task.dekadabackend.service.EmailSenderService
